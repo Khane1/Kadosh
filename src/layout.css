@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(to bottom, #F5EDE9,#FCFAF8 );
+    font-family: 'Roboto Variable', sans-serif;
+    color: #341713;
+    font-weight: 400;
+}
+nav a {
+    color: #341713;
+
+}
+.specialFont{
+  font-family: 'Fredoka One', system-ui;
+}
